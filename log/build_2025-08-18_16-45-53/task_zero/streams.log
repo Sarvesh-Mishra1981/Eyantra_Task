@@ -1,0 +1,37 @@
+[1.001s] Invoking command in '/home/ubuntu/eyantra_task/src/task_zero': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_zero/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_zero build --build-base /home/ubuntu/eyantra_task/build/task_zero/build install --record /home/ubuntu/eyantra_task/build/task_zero/install.log --single-version-externally-managed install_data
+[1.210s] running egg_info
+[1.210s] creating ../../build/task_zero/task_zero.egg-info
+[1.211s] writing ../../build/task_zero/task_zero.egg-info/PKG-INFO
+[1.211s] writing dependency_links to ../../build/task_zero/task_zero.egg-info/dependency_links.txt
+[1.211s] writing entry points to ../../build/task_zero/task_zero.egg-info/entry_points.txt
+[1.211s] writing requirements to ../../build/task_zero/task_zero.egg-info/requires.txt
+[1.211s] writing top-level names to ../../build/task_zero/task_zero.egg-info/top_level.txt
+[1.211s] writing manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+[1.213s] reading manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+[1.214s] writing manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+[1.214s] running build
+[1.214s] running build_py
+[1.214s] creating /home/ubuntu/eyantra_task/build/task_zero/build
+[1.214s] creating /home/ubuntu/eyantra_task/build/task_zero/build/lib
+[1.214s] creating /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+[1.215s] copying task_zero/__init__.py -> /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+[1.215s] copying task_zero/run_in_circle.py -> /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+[1.215s] running install
+[1.216s] running install_lib
+[1.216s] creating /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+[1.216s] copying /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero/__init__.py -> /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+[1.216s] copying /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero/run_in_circle.py -> /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+[1.217s] byte-compiling /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero/__init__.py to __init__.cpython-310.pyc
+[1.218s] byte-compiling /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero/run_in_circle.py to run_in_circle.cpython-310.pyc
+[1.218s] running install_data
+[1.218s] creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index
+[1.219s] creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index
+[1.219s] creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index/packages
+[1.219s] copying resource/task_zero -> /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index/packages
+[1.219s] copying package.xml -> /home/ubuntu/eyantra_task/install/task_zero/share/task_zero
+[1.219s] running install_egg_info
+[1.221s] Copying ../../build/task_zero/task_zero.egg-info to /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero-0.0.0-py3.10.egg-info
+[1.223s] running install_scripts
+[1.239s] Installing movecircle script to /home/ubuntu/eyantra_task/install/task_zero/lib/task_zero
+[1.240s] writing list of installed files to '/home/ubuntu/eyantra_task/build/task_zero/install.log'
+[1.276s] Invoked command in '/home/ubuntu/eyantra_task/src/task_zero' returned '0': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_zero/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_zero build --build-base /home/ubuntu/eyantra_task/build/task_zero/build install --record /home/ubuntu/eyantra_task/build/task_zero/install.log --single-version-externally-managed install_data

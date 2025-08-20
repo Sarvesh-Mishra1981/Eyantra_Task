@@ -1,0 +1,3 @@
+[console_scripts]
+movespring = task_two.run_in_spring:main
+

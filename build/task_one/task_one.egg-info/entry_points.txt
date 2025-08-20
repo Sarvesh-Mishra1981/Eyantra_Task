@@ -1,0 +1,3 @@
+[console_scripts]
+movespiral = task_one.run_in_spiral:main
+

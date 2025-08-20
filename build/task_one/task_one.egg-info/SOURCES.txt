@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/task_one/task_one.egg-info/PKG-INFO
+../../build/task_one/task_one.egg-info/SOURCES.txt
+../../build/task_one/task_one.egg-info/dependency_links.txt
+../../build/task_one/task_one.egg-info/entry_points.txt
+../../build/task_one/task_one.egg-info/requires.txt
+../../build/task_one/task_one.egg-info/top_level.txt
+../../build/task_one/task_one.egg-info/zip-safe
+resource/task_one
+task_one/__init__.py
+task_one/run_in_spiral.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

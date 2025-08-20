@@ -1,0 +1,3 @@
+[console_scripts]
+movecircle = task_zero.run_in_circle:main
+

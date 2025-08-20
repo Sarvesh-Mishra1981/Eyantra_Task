@@ -1,0 +1,42 @@
+[0.632s] Invoking command in '/home/ubuntu/eyantra_task/src/task_one': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_one build --build-base /home/ubuntu/eyantra_task/build/task_one/build install --record /home/ubuntu/eyantra_task/build/task_one/install.log --single-version-externally-managed install_data
+[0.761s] running egg_info
+[0.762s] creating ../../build/task_one/task_one.egg-info
+[0.762s] writing ../../build/task_one/task_one.egg-info/PKG-INFO
+[0.762s] writing dependency_links to ../../build/task_one/task_one.egg-info/dependency_links.txt
+[0.762s] writing entry points to ../../build/task_one/task_one.egg-info/entry_points.txt
+[0.762s] writing requirements to ../../build/task_one/task_one.egg-info/requires.txt
+[0.762s] writing top-level names to ../../build/task_one/task_one.egg-info/top_level.txt
+[0.762s] writing manifest file '../../build/task_one/task_one.egg-info/SOURCES.txt'
+[0.763s] reading manifest file '../../build/task_one/task_one.egg-info/SOURCES.txt'
+[0.763s] writing manifest file '../../build/task_one/task_one.egg-info/SOURCES.txt'
+[0.763s] running build
+[0.763s] running build_py
+[0.763s] creating /home/ubuntu/eyantra_task/build/task_one/build
+[0.764s] creating /home/ubuntu/eyantra_task/build/task_one/build/lib
+[0.764s] creating /home/ubuntu/eyantra_task/build/task_one/build/lib/task_one
+[0.764s] copying task_one/run_in_spiral.py -> /home/ubuntu/eyantra_task/build/task_one/build/lib/task_one
+[0.764s] copying task_one/__init__.py -> /home/ubuntu/eyantra_task/build/task_one/build/lib/task_one
+[0.764s] running install
+[0.764s] running install_lib
+[0.764s] creating /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one
+[0.764s] copying /home/ubuntu/eyantra_task/build/task_one/build/lib/task_one/run_in_spiral.py -> /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one
+[0.764s] copying /home/ubuntu/eyantra_task/build/task_one/build/lib/task_one/__init__.py -> /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one
+[0.764s] byte-compiling /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one/run_in_spiral.py to run_in_spiral.cpython-310.pyc
+[0.765s]   File "/home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one/run_in_spiral.py", line 18
+[0.765s]     liner_vel++
+[0.765s]                ^
+[0.765s] SyntaxError: invalid syntax
+[0.765s] 
+[0.765s] byte-compiling /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one/__init__.py to __init__.cpython-310.pyc
+[0.765s] running install_data
+[0.765s] creating /home/ubuntu/eyantra_task/install/task_one/share/ament_index
+[0.765s] creating /home/ubuntu/eyantra_task/install/task_one/share/ament_index/resource_index
+[0.765s] creating /home/ubuntu/eyantra_task/install/task_one/share/ament_index/resource_index/packages
+[0.765s] copying resource/task_one -> /home/ubuntu/eyantra_task/install/task_one/share/ament_index/resource_index/packages
+[0.765s] copying package.xml -> /home/ubuntu/eyantra_task/install/task_one/share/task_one
+[0.765s] running install_egg_info
+[0.766s] Copying ../../build/task_one/task_one.egg-info to /home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one-0.0.0-py3.10.egg-info
+[0.767s] running install_scripts
+[0.776s] Installing movespiral script to /home/ubuntu/eyantra_task/install/task_one/lib/task_one
+[0.776s] writing list of installed files to '/home/ubuntu/eyantra_task/build/task_one/install.log'
+[0.796s] Invoked command in '/home/ubuntu/eyantra_task/src/task_one' returned '0': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_one build --build-base /home/ubuntu/eyantra_task/build/task_one/build install --record /home/ubuntu/eyantra_task/build/task_one/install.log --single-version-externally-managed install_data

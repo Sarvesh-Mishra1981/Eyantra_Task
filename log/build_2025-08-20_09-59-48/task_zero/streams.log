@@ -1,0 +1,21 @@
+[0.570s] Invoking command in '/home/ubuntu/eyantra_task/src/task_zero': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_zero/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_zero build --build-base /home/ubuntu/eyantra_task/build/task_zero/build install --record /home/ubuntu/eyantra_task/build/task_zero/install.log --single-version-externally-managed install_data
+[0.688s] running egg_info
+[0.688s] writing ../../build/task_zero/task_zero.egg-info/PKG-INFO
+[0.689s] writing dependency_links to ../../build/task_zero/task_zero.egg-info/dependency_links.txt
+[0.689s] writing entry points to ../../build/task_zero/task_zero.egg-info/entry_points.txt
+[0.689s] writing requirements to ../../build/task_zero/task_zero.egg-info/requires.txt
+[0.689s] writing top-level names to ../../build/task_zero/task_zero.egg-info/top_level.txt
+[0.690s] reading manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+[0.691s] writing manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+[0.691s] running build
+[0.691s] running build_py
+[0.691s] running install
+[0.691s] running install_lib
+[0.692s] running install_data
+[0.692s] running install_egg_info
+[0.692s] removing '/home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero-0.0.0-py3.10.egg-info' (and everything under it)
+[0.693s] Copying ../../build/task_zero/task_zero.egg-info to /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero-0.0.0-py3.10.egg-info
+[0.693s] running install_scripts
+[0.703s] Installing movecircle script to /home/ubuntu/eyantra_task/install/task_zero/lib/task_zero
+[0.703s] writing list of installed files to '/home/ubuntu/eyantra_task/build/task_zero/install.log'
+[0.720s] Invoked command in '/home/ubuntu/eyantra_task/src/task_zero' returned '0': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_zero/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_zero build --build-base /home/ubuntu/eyantra_task/build/task_zero/build install --record /home/ubuntu/eyantra_task/build/task_zero/install.log --single-version-externally-managed install_data

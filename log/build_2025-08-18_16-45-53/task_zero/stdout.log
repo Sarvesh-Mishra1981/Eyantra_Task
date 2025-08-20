@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/task_zero/task_zero.egg-info
+writing ../../build/task_zero/task_zero.egg-info/PKG-INFO
+writing dependency_links to ../../build/task_zero/task_zero.egg-info/dependency_links.txt
+writing entry points to ../../build/task_zero/task_zero.egg-info/entry_points.txt
+writing requirements to ../../build/task_zero/task_zero.egg-info/requires.txt
+writing top-level names to ../../build/task_zero/task_zero.egg-info/top_level.txt
+writing manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+reading manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+writing manifest file '../../build/task_zero/task_zero.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/eyantra_task/build/task_zero/build
+creating /home/ubuntu/eyantra_task/build/task_zero/build/lib
+creating /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+copying task_zero/__init__.py -> /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+copying task_zero/run_in_circle.py -> /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero
+running install
+running install_lib
+creating /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+copying /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero/__init__.py -> /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+copying /home/ubuntu/eyantra_task/build/task_zero/build/lib/task_zero/run_in_circle.py -> /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero
+byte-compiling /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero/run_in_circle.py to run_in_circle.cpython-310.pyc
+running install_data
+creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index
+creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index
+creating /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index/packages
+copying resource/task_zero -> /home/ubuntu/eyantra_task/install/task_zero/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/eyantra_task/install/task_zero/share/task_zero
+running install_egg_info
+Copying ../../build/task_zero/task_zero.egg-info to /home/ubuntu/eyantra_task/install/task_zero/lib/python3.10/site-packages/task_zero-0.0.0-py3.10.egg-info
+running install_scripts
+Installing movecircle script to /home/ubuntu/eyantra_task/install/task_zero/lib/task_zero
+writing list of installed files to '/home/ubuntu/eyantra_task/build/task_zero/install.log'

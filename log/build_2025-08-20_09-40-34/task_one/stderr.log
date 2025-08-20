@@ -1,0 +1,5 @@
+  File "/home/ubuntu/eyantra_task/install/task_one/lib/python3.10/site-packages/task_one/run_in_spiral.py", line 18
+    liner_vel++
+               ^
+SyntaxError: invalid syntax
+

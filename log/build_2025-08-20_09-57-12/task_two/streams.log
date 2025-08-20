@@ -1,0 +1,37 @@
+[0.593s] Invoking command in '/home/ubuntu/eyantra_task/src/task_two': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_two/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_two build --build-base /home/ubuntu/eyantra_task/build/task_two/build install --record /home/ubuntu/eyantra_task/build/task_two/install.log --single-version-externally-managed install_data
+[0.706s] running egg_info
+[0.707s] creating ../../build/task_two/task_two.egg-info
+[0.707s] writing ../../build/task_two/task_two.egg-info/PKG-INFO
+[0.707s] writing dependency_links to ../../build/task_two/task_two.egg-info/dependency_links.txt
+[0.707s] writing entry points to ../../build/task_two/task_two.egg-info/entry_points.txt
+[0.707s] writing requirements to ../../build/task_two/task_two.egg-info/requires.txt
+[0.707s] writing top-level names to ../../build/task_two/task_two.egg-info/top_level.txt
+[0.708s] writing manifest file '../../build/task_two/task_two.egg-info/SOURCES.txt'
+[0.708s] reading manifest file '../../build/task_two/task_two.egg-info/SOURCES.txt'
+[0.709s] writing manifest file '../../build/task_two/task_two.egg-info/SOURCES.txt'
+[0.709s] running build
+[0.709s] running build_py
+[0.709s] creating /home/ubuntu/eyantra_task/build/task_two/build
+[0.709s] creating /home/ubuntu/eyantra_task/build/task_two/build/lib
+[0.709s] creating /home/ubuntu/eyantra_task/build/task_two/build/lib/task_two
+[0.709s] copying task_two/__init__.py -> /home/ubuntu/eyantra_task/build/task_two/build/lib/task_two
+[0.709s] copying task_two/run_in_spring.py -> /home/ubuntu/eyantra_task/build/task_two/build/lib/task_two
+[0.709s] running install
+[0.710s] running install_lib
+[0.710s] creating /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two
+[0.710s] copying /home/ubuntu/eyantra_task/build/task_two/build/lib/task_two/__init__.py -> /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two
+[0.710s] copying /home/ubuntu/eyantra_task/build/task_two/build/lib/task_two/run_in_spring.py -> /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two
+[0.710s] byte-compiling /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two/__init__.py to __init__.cpython-310.pyc
+[0.710s] byte-compiling /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two/run_in_spring.py to run_in_spring.cpython-310.pyc
+[0.710s] running install_data
+[0.710s] creating /home/ubuntu/eyantra_task/install/task_two/share/ament_index
+[0.710s] creating /home/ubuntu/eyantra_task/install/task_two/share/ament_index/resource_index
+[0.710s] creating /home/ubuntu/eyantra_task/install/task_two/share/ament_index/resource_index/packages
+[0.710s] copying resource/task_two -> /home/ubuntu/eyantra_task/install/task_two/share/ament_index/resource_index/packages
+[0.710s] copying package.xml -> /home/ubuntu/eyantra_task/install/task_two/share/task_two
+[0.710s] running install_egg_info
+[0.711s] Copying ../../build/task_two/task_two.egg-info to /home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages/task_two-0.0.0-py3.10.egg-info
+[0.711s] running install_scripts
+[0.721s] Installing movespring script to /home/ubuntu/eyantra_task/install/task_two/lib/task_two
+[0.721s] writing list of installed files to '/home/ubuntu/eyantra_task/build/task_two/install.log'
+[0.758s] Invoked command in '/home/ubuntu/eyantra_task/src/task_two' returned '0': PYTHONPATH=/home/ubuntu/eyantra_task/build/task_two/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/eyantra_task/install/task_two/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_two build --build-base /home/ubuntu/eyantra_task/build/task_two/build install --record /home/ubuntu/eyantra_task/build/task_two/install.log --single-version-externally-managed install_data
